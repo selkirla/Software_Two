@@ -12,7 +12,7 @@ import components.utilities.Tokenizer;
  * Layered implementation of secondary methods {@code parse} and
  * {@code parseBlock} for {@code Statement}.
  *
- * @author JT Vendetti & Selin Kirbas
+ * @author [Removed for privacy] & Selin Kirbas
  *
  */
 public final class Statement1Parse1 extends Statement1 {
