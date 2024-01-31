@@ -18,7 +18,7 @@ import components.utilities.Reporter;
  * program generates an HTML document with a tag cloud of all the words listed
  * in alphabetical order with varying font sizes.
  *
- * @author JT Vendetti & Selin Kirbas
+ * @author Selin Kirbas & [Removed for privacy]
  */
 public final class TagCloudGenerator {
 
