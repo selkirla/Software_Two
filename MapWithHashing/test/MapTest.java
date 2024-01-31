@@ -8,7 +8,7 @@ import components.map.Map;
  * JUnit test fixture for {@code Map<String, String>}'s constructor and kernel
  * methods.
  *
- * @author JT Vendetti & Selin Kirbas
+ * @author Selin Kirbas & [Removed for privacy]
  *
  */
 public abstract class MapTest {
