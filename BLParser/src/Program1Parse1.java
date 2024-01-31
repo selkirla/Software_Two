@@ -13,7 +13,7 @@ import components.utilities.Tokenizer;
 /**
  * Layered implementation of secondary method {@code parse} for {@code Program}.
  *
- * @author [Removed for privacy] & Selin Kirbas
+ * @author Selin Kirbas & [Removed for privacy]
  *
  */
 public final class Program1Parse1 extends Program1 {
