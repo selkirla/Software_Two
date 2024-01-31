@@ -14,7 +14,7 @@ import components.utilities.Tokenizer;
  * JUnit test fixture for {@code Statement}'s constructor and kernel methods.
  *
  * @author Wayne Heym
- * @author JT Vendetti & Selin Kirbas
+ * @author Selin Kirbas & [Removed for privacy]
  *
  */
 public abstract class StatementTest {
