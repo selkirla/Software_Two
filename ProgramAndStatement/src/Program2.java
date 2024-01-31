@@ -15,7 +15,7 @@ import components.utilities.Tokenizer;
  *             and [$this.body is a BLOCK statement]
  * @correspondence this = ($this.name, $this.context, $this.body)
  *
- * @author JT Vendetti & Selin Kirbas
+ * @author Selin Kirbas & [Removed for privacy]
  *
  */
 public class Program2 extends ProgramSecondary {
